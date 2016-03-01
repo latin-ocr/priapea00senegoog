@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./priapea00senegoog/priapea00senegoog_0167.png"; bbox 0 0 2881 4580; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 347 1830 2278 2296">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 347 1830 2278 2296">
+     <span class='ocr_line' id='line_1_1' title="bbox 957 1830 1837 2028; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 957 1830 1653 2028; x_wconf 74' lang='lat' dir='ltr'><strong>VARRONIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1836 1892 1837 1895; x_wconf 8' lang='grc' dir='ltr'><em>Ὗ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 347 2109 2278 2296; baseline -0.001 -12"><span class='ocrx_word' id='word_1_3' title='bbox 347 2109 1402 2288; x_wconf 61' lang='grc' dir='ltr'>ΜΕΝΙΡΡΕᾸΗῨΜ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1481 2190 2278 2296; x_wconf 78' lang='lat' dir='ltr'><strong>RELIQVIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 342 4131 933 4202">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 342 4131 933 4202">
+     <span class='ocr_line' id='line_1_3' title="bbox 342 4131 933 4202; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 342 4158 522 4202; x_wconf 76' lang='lat' dir='ltr'><strong>Petroni</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 526 4131 933 4202; x_wconf 12' lang='lat'><strong>111111111111111</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
